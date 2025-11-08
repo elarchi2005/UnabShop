@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "303498920129",
+    "project_id": "angelcabreraunabshop",
+    "storage_bucket": "angelcabreraunabshop.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303498920129:android:f7d4e500967bc486835440",
+        "android_client_info": {
+          "package_name": "com.angelcabrera.unabshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIwRsN_-xwhU8lsgG3b7a03w09Lv51j2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
